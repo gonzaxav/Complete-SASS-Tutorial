@@ -1,0 +1,28 @@
+{
+  "name": "complete-sass-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/complete-sass-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/complete-sass-tutorial/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/complete-sass-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  },
+  "description": "",
+  "resolutions": {
+    "chokidar": "^3.4.0"
+  }
+}
